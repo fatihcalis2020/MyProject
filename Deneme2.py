@@ -1,5 +1,4 @@
  
-#print("Hollo Everyone")
-
-print("Hello This is first commit from Fatih")
-cd
+def cikarma(x, y):
+    return x-y
+    
